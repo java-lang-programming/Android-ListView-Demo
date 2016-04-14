@@ -8,7 +8,8 @@ Article & Code explanation
 ------------
 The explanation of this code is publishing on website.
 
-http://java-lang-programming.com/
+http://java-lang-programming.com/ja/articles/21
+http://java-lang-programming.com/en/articles/21
 
 Credits
 ------------
